@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # Parameters
 n = 64  # number of bits
-k = 4   # Derived from student numbers s1081911 and s1072878
+k = 4   # Derived from student numbers
 noise_rate = 0.1
 num_challenges = 20000
 num_instances = 10
